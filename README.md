@@ -9,5 +9,5 @@
 
 - pronouns: he/him
 - how to reach me: [@nikitasr3al (Telegram)](https://t.me/nikitasr3al) or [@n1k1t4s (Discord)](https://discordapp.com/users/1175191382734946467)
-- loves talking on some random themes
+- loves talking on some random themes <br>
 ![](https://komarev.com/ghpvc/?username=your-github-username)
