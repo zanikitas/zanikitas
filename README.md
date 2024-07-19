@@ -1,16 +1,14 @@
-## Hi there 👋
+## sup
 
-<!--
-**zanikitas/zanikitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Nikitas
 
-Here are some ideas to get you started:
+### i like doing some things like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- doin smth with phonez
+- doing some random shet for collabvm
+
+### other things
+
+- pronouns: he/him
+- how to reach me: [@nikitasr3al (Telegram)](https://t.me/nikitasr3al) or [@n1k1t4s (Discord)](https://discordapp.com/users/1175191382734946467)
+- loves talking on some random themes
