@@ -1,6 +1,4 @@
-## sup
-
-## I am Nikitas
+## sup i am nikitas
 
 ### i like doing some things like:
 
