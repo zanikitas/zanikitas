@@ -8,5 +8,5 @@
 ### other things
 
 - pronouns: he/him
-- how to reach me: [@nikitasr3al (Telegram)](https://t.me/nikitasr3al) or [@_n1k1t4s (Discord)](https://discordapp.com/users/1078366000497561680) <br>
+- how to reach me: [@nikitasr3al (Telegram)](https://t.me/nikitasr3al) <br>
 ![](https://komarev.com/ghpvc/?username=zanikitas)
