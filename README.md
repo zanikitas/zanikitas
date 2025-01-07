@@ -7,6 +7,7 @@
 
 ### other things
 
+- discord: ??
 - pronouns: he/him
 - that's all (why do you need my social medias?))<br>
 ![](https://komarev.com/ghpvc/?username=zanikitas)
